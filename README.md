@@ -42,12 +42,5 @@ If you enjoyed this project and want to continue learning:
 
 Let’s connect professionally and grow your data career 🚀
 _________________________________________________________________________________________________
-💡 Thank you for checking out this project!
-If it helped you, consider starring ⭐ the repository or sharing it with someone learning Data Analytics.
-
-
-💼 LinkedIn: [Musharaf Shaik]((https://www.linkedin.com/in/musharaf-shaik/))
-- Let’s connect professionally and grow your data career
-
 
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
